@@ -1,0 +1,20 @@
+.title{
+    text-align: center;
+}
+
+footer{
+    vertical-align: bottom;
+}
+
+#image1{
+    height:200px;
+    width:400px;
+    margin-right: auto;
+}
+
+.wik{
+    display:flex;
+    margin-left: auto;
+}
+
+
